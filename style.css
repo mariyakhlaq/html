@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 1900px;
+    height: 90vh;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
